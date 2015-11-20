@@ -9,7 +9,7 @@ Detects some new features, supported by Skylake Xeon processor:
 Advanced Vector Extension AVX512 and Cache Flush optimization
 to control NV memory at address space.
 Note.
-NV (aka NVDIMM) is Non-Volatile Dual In Line Memory Modules,
+NV (aka NVDIMM) is Non-Volatile Dual In Line Memory Module,
 new hybrid RAM/Flash memory standard.
 
 Небольшая информационная утилита для Win64.
@@ -21,6 +21,6 @@ Xeon Skylake:
 кэш-памяти, необходимые для управления NV памятью в адресном
 пространстве.
 Примечание.
-NV или NVDIMM is Non-Volatile Dual In Line Memory Module,
+NV или NVDIMM означает Non-Volatile Dual In Line Memory Module,
 это гибридные модули памяти, совмещающие преимущества оперативной
 памяти и энергонезависимой Flash памяти.
