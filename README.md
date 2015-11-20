@@ -2,7 +2,7 @@
 Small utility to detect AVX512 and new Intel Skylake processor features. For Win64.
 
 Small information utility for Win64.
-Written in assembler, used FASM (Flat Assembler) translator,
+Written in assembler, FASM (Flat Assembler) translator,
 FDBG debugger, and FASM Editor Integrated Development Environment
 were used.
 Detects some new features, supported by Skylake Xeon processor:
