@@ -1,14 +1,15 @@
 # AVX512-Detector
-Small utility for detect AVX512 and new Intel Skylake processor features. For Win64.
+Small utility to detect AVX512 and new Intel Skylake processor features. For Win64.
 
 Small information utility for Win64.
-Written by assembler, used FASM (Flat Assembler) translator,
-FDBG debugger, and FASM Editor Integrated Development Environment.
-Detect some new features, supported by Skylake Xeon processor:
+Written in assembler, used FASM (Flat Assembler) translator,
+FDBG debugger, and FASM Editor Integrated Development Environment
+were used.
+Detects some new features, supported by Skylake Xeon processor:
 Advanced Vector Extension AVX512 and Cache Flush optimization
-for control NV memory at address space.
+to control NV memory at address space.
 Note.
-NV or NVDIMM is Non-Volatile Dual In Line Memory Modules,
+NV (aka NVDIMM) is Non-Volatile Dual In Line Memory Modules,
 new hybrid RAM/Flash memory standard.
 
 Небольшая информационная утилита для Win64.
@@ -20,6 +21,6 @@ Xeon Skylake:
 кэш-памяти, необходимые для управления NV памятью в адресном
 пространстве.
 Примечание.
-NV или NVDIMM is Non-Volatile Dual In Line Memory Modules,
+NV или NVDIMM is Non-Volatile Dual In Line Memory Module,
 это гибридные модули памяти, совмещающие преимущества оперативной
 памяти и энергонезависимой Flash памяти.
